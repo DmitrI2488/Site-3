@@ -7,9 +7,11 @@ Telerating
 
 # Установка
 ```
-git clone https://github.com/plutonium777/telegram_comments_spamer_userbot.git
-cd Site-4
-pip install -r requirements.txt
+git clone https://github.com/DmitrI2488/Site-3.git
+cd Site-3
+pip install django
+pip install requests
+pip install Babel
 python3 manage.py runserver
 ```
 *Сайт будет доступен на локальном адресе http://127.0.0.1:8000/*
